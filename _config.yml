@@ -28,7 +28,7 @@ navbar-links:
     - dnaQ: "https://github.com/ojaswee/dnaQ"
     - Predicting Patient Mortality: "https://github.com/ojaswee/predicting_patient_mortality"
     - TabPort: "https://github.com/ojaswee/TabPort"
-  Resources: "http://deanattali.com"
+  Resources: ""
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Ojaswee Dhungana
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -73,12 +73,10 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  github: ojaswee
+  linkedin: ojaswee-dhungana-1aa83298
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -92,8 +90,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
